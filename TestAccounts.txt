@@ -1,0 +1,8 @@
+test1@socketmail.gr
+pass1
+
+test2@socketmail.gr
+pass2
+
+test3@socketmail.gr
+pass3
